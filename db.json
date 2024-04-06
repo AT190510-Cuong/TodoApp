@@ -1,0 +1,29 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "text": "learn react",
+      "status": 0
+    },
+    {
+      "id": "2",
+      "text": "learn react-router",
+      "status": 0
+    },
+    {
+      "id": "3",
+      "text": "learn redux",
+      "status": 1
+    },
+    {
+      "id": "4",
+      "text": "learn redux-thunk",
+      "status": 0
+    },
+    {
+      "id": "5",
+      "text": "learn redux-saga",
+      "status": 1
+    }
+  ]
+}
